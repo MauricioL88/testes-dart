@@ -18,6 +18,7 @@ void main() {
   // frutas = ['Carro', 'Moto', 'Bicicleta'];
   frutas.add('Kiwi');
   print(frutas);
+  print('');
 
   /*
     * Usando o 'const' não é possível alterar o tipo da lista nem o

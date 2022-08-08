@@ -26,6 +26,5 @@ void main() {
   */
 
   final alunos = const ['Maurício', 'Evelin'];
-
   print(alunos);
 }
